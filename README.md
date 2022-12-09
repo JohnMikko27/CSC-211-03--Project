@@ -1,1 +1,2 @@
 # CSC-211-03--Project
+Our team built a program that allows the user to play a game of blackjack. The game of Blackjack will first start with the player drawing two cards. The program will then asks the player wants to draw another card until they stop or bust. Once the player’s turn is done, the CPU will draw his hand. In the end, the program will compare the player’s and dealer’s hand to see if its a draw, win, or bust.

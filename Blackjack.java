@@ -3,14 +3,12 @@ import java.util.Scanner;
 public class Blackjack {
     public static void main(String[] args) {
         System.out.println("Time to Play Black Jack!\n");
-        
 
         int playerHand = 0;
         int dealerHand = 0;
 
         playerHand = decisionPlayer();
         dealerHand = decisionCPU();
-
 
         isGameOver(playerHand, dealerHand);
 
